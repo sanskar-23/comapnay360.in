@@ -1,0 +1,78 @@
+body {
+    background-color: #FCD000;
+    overflow-x: hidden;
+}
+
+.card-title {
+    text-align: center;
+    padding-bottom: 30%;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+.caard {
+    margin-left: 10%;
+}
+
+.card-body {
+    overflow: hidden;
+    position: relative;
+}
+
+.card-subtitle {
+    background-color: #F5FBFF;
+    text-align: center;
+    height: 100px;
+}
+
+.small {
+    color: #3435FF;
+    font-weight: bold;
+}
+
+.card-link {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.card-link1 {
+    font-weight: bolder;
+}
+
+.card-2 {
+    padding-bottom: 28%;
+}
+
+.card-3 {
+    padding-bottom: 19%;
+}
+
+.card-4 {
+    padding-bottom: 28%;
+}
+
+.package__badge {
+    position: absolute;
+    top: 0;
+    right: 2;
+    margin: 0;
+    font-size: 1.0rem;
+    color: black;
+    background-color: #FCD000;
+    padding: 0.5rem;
+    transform: rotateZ(-45deg) translate(-3.0rem, -1.5rem);
+    width: 8rem;
+    transform-origin: center;
+    text-align: center;
+}
+
+.money {
+    font-weight: bolder;
+}
+
+@media(max-width: 767px) {}
+
+
+/* .card-link1 {
+    margin-bottom: 10px;
+} */
