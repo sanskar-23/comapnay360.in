@@ -1,2 +1,2 @@
-# comapnay360.in
+# company360.in
 (Mobile and Desktop Design)
